@@ -1,7 +1,7 @@
 
-+------------------------------------------+
-|I’m Keenan aka @Miststone a game developer|
-+------------------------------------------+
++-------------------------+
+|I’m Keenan aka @Miststone|
++-------------------------+
 <!---
 Current projects are:
 Anikaris MUD
